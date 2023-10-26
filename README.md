@@ -1,5 +1,5 @@
   <div id="header" >
-  <img src="https://e1.pxfuel.com/desktop-wallpaper/459/39/desktop-wallpaper-green-3d-code-backgrounds-anonymous-3d.jpg" width="100%" height='400' style={{objectFit:'cover'}}/>
+  <img src="https://wallpapers.com/images/hd/monkey-doing-coding-kabic55n6a0wai1i.jpg" width="100%" height='400' style={{objectFit:'cover'}}/>
 </div>
 
 <div id="badges">
@@ -13,7 +13,7 @@
   
 ### Hi there 👋
     
-I am Dip, a man. Don't get confused with my name 😎.
+I am Dipshikha, Dip in short. 😎
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbivash&hide_progress=true)
 
