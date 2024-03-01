@@ -6,7 +6,7 @@ I am a web developer with experience in building UI & scalable web applications 
 
 
 
-- 🔭 I’m currently working on new open source project [Pulse](https://github.com/ecommerce-next)
+- 🔭 I’m currently working on new open source project [E-commerce](https://github.com/ecommerce-next)
 - 👯 I’m looking to collaborate on open source React/Next project 
 - 💬 Ask me about JS | React | Web Dev
 - 📫 How to reach me: [Github](https://github.com/akbivash), [Facebook](https://facebook.com/akbivash), [Linkedin](https://www.linkedin.com/in/akbivash/)
