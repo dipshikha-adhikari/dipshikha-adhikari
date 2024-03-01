@@ -6,11 +6,11 @@ I am a web developer with experience in building UI & scalable web applications 
 
 
 
-- 🔭 Currently I'm working on new project [E-commerce](https://github.com/akbivash/ecommerce-nextjs).
-- 👯 I’m looking to collaborate on open source React/Next project. 
-- 💬 Ask me about JS | React | Web Dev.
-- 📫 How to reach me: [Github](https://github.com/akbivash), [Facebook](https://facebook.com/akbivash), [Linkedin](https://www.linkedin.com/in/akbivash/).
-- 😄 Pronouns:  He/him.
+- 🔭 Currently I'm working on new project [E-commerce](https://github.com/akbivash/ecommerce-nextjs)
+- 👯 I’m looking to collaborate on open source React/Next project
+- 💬 Ask me about JS | React | Web Dev
+- 📫 How to reach me: [Github](https://github.com/akbivash), [Facebook](https://facebook.com/akbivash), [Linkedin](https://www.linkedin.com/in/akbivash/)
+- 😄 Pronouns:  He/him
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbivash&hide_progress=true)
