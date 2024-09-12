@@ -6,7 +6,7 @@ I am a web developer with experience in building UI & scalable web applications 
 
 
 
-- 🔭 Currently I'm working on new project [E-commerce](https://github.com/akbivash/ecommerce-nextjs)
+- 🔭 Currently I'm working in a company as a Frontend Software Engineer
 - 👯 I’m looking to collaborate on open source React/Next project
 - 💬 Ask me about JS | React | Web Dev
 - 📫 How to reach me: [Github](https://github.com/akbivash), [Facebook](https://facebook.com/akbivash), [Linkedin](https://www.linkedin.com/in/akbivash/)
