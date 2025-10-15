@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I’m a **Web Developer** with an **artistic mindset**, passionate about crafting **clean, elegant, and scalable web applications**.  
-I believe code can be as beautiful as design — combining logic and creativity to build dashboards, billing systems, and logistics & delivery platforms using **React**, **Next.js**, and **Node.js**.
+I believe code can be as beautiful as design.
 
 <img align="right" src="https://github.com/TheAlphamerc/TheAlphamerc/assets/37103237/71528b45-2d50-4b5c-a5dc-67ba5242617a" width="150" height="150">
 
