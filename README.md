@@ -13,4 +13,4 @@ I am a web developer with experience in building UI & scalable web applications 
 - 😄 Pronouns:  He/him
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipshikha-adhikari&hide_progress=true)
+
