@@ -33,8 +33,8 @@ I have hands-on experience developing **dashboards**, **billing systems**, and *
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akbivash&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbivash&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dipshikha-adhikari&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipshikha-adhikari&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ I have hands-on experience developing **dashboards**, **billing systems**, and *
 ### ⚡ GitHub Streak
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=akbivash&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=dipshikha-adhikari&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
